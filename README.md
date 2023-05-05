@@ -1,6 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8858470&assignment_repo_type=AssignmentRepo)
-# Virtual Pet
- 
 Authors: [Bilal Suleiman](https://github.com/bsule), [Brent Nicks](https://github.com/brentnicks), [Lauren Gager](https://github.com/MinteaAliens), [Adrian Franco](https://github.com/afranco7645)
 
 This is a virtual pet game where the user can choose a pet of his liking and level it up using minigames. The user can also feed the pet, rest it, and give it water. When winning one of the minigames, the user will get an item that he/she can feed the pet with. 
