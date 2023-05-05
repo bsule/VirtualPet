@@ -1,3 +1,4 @@
+# Virtual Pet
 Authors: [Bilal Suleiman](https://github.com/bsule), [Brent Nicks](https://github.com/brentnicks), [Lauren Gager](https://github.com/MinteaAliens), [Adrian Franco](https://github.com/afranco7645)
 
 This is a virtual pet game where the user can choose a pet of his liking and level it up using minigames. The user can also feed the pet, rest it, and give it water. When winning one of the minigames, the user will get an item that he/she can feed the pet with. 
